@@ -1,0 +1,28 @@
+#button {
+    display: inline-block;
+    background-color: #EA53AD;
+    box-shadow: 5px 5px 0 #000000;
+    padding: 18px 20px;
+    margin-right: 0;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+#button:hover {
+    background-color: #a32bff;
+}
+
+.button {
+    display: inline-block;
+    background-color: #EA53AD;
+    box-shadow: 5px 5px 0 #000000;
+    padding: 18px 20px;
+    margin-right: 0;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.button:hover {
+    background-color: #a32bff;
+}
+
