@@ -26,6 +26,10 @@
     <link rel="stylesheet" href="css/components/main-menu.css">
     <link rel="stylesheet" href="css/components/main-description.css">
     <link rel="stylesheet" href="css/components/button-arrow.css">
+    <link rel="stylesheet" href="css/components/main-footer.css">
+    <link rel="stylesheet" href="css/components/main-label.css">
+    <link rel="stylesheet" href="css/components/main-input.css">
+    <link rel="stylesheet" href="css/components/main-form.css">
 </head>
 
 <body>
@@ -220,16 +224,42 @@
         <h2 class="main-title -second">Sobre</h2>
 
         <p class="main-description">
-            Olá, me chamo Jéssica, sou uma entusiasta da programação apaixonada pelo universo front-end, atualmente cursando Técnico em Informática para Internet no Senac. Minha jornada envolve a criação de interfaces com HTML e CSS, além de explorar as nuances do Javascript para adicionar interatividade em minhas páginas. Convido você a explorar meu portfólio para ver como transformo conceitos em experiências visuais envolventes!😊🤍
-
-
-            
-
-
+            Olá, me chamo Jéssica, sou uma entusiasta da programação apaixonada pelo universo front-end, atualmente
+            cursando Técnico em Informática para Internet no Senac. Minha jornada envolve a criação de interfaces com
+            HTML e CSS, além de explorar as nuances do Javascript para adicionar interatividade em minhas páginas.
+            Convido você a explorar meu portfólio para ver como transformo conceitos em experiências visuais
+            envolventes!😊🤍
         </p>
-
     </section>
 
+    <form class="main-form">
+        <h2 class="main-title -second">Contato</h2>
+
+        <label class="main-label" for="name">Nome</label>
+        <input class="main-input" id="name" type="text" required>
+
+        <label class="main-label" for="email">Email</label>
+        <input class="main-input" id="email" type="email" required>
+         
+        <label class="main-label" for="message">Mensagem</label>
+        <textarea class="main-input -textarea" id="message" cols="30" rows="10" required></textarea>
+
+        <button class="main-button -full" type="submit">Enviar</button>
+        
+    </form>
+
+    <footer class="main-footer">
+
+        <a class="action" href="https://www.linkedin.com/in/jessicasamppaio/" target="_blank">
+        <img class="icon-footer" src="img/icon-linkedin.png" alt="linkedin">
+        </a>
+        <a class="action" href="https://github.com/jessicasamppaio" target="_blank">
+        <img class="icon-footer" src="img/icons-github.png" alt="github">
+        </a>
+        <a class="action" href="https://instagram/cherryjessss" target="_blank">
+        <img class="icon-footer" src="img/icon-instagram.png" alt="instagram">
+        </a>
+    </footer>
 </body>
 
 </html>
