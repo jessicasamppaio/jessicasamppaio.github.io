@@ -1,4 +1,4 @@
-.banner {
+.main-banner {
     box-sizing: border-box;
     background-image: url(../../img/banner-animado-10.gif);
     background-repeat: no-repeat;
@@ -8,7 +8,7 @@
     position: relative;
 }
 
-.banner::before {
+.main-banner::before {
     content: "";
     position: absolute;
     bottom: 14px;
@@ -18,7 +18,7 @@
     background-color: rgb(0, 0, 0);
 }
 
-.banner .wrapper {
+.main-banner .wrapper {
     display: flex;
     flex-direction: column;
     width: 690px;
@@ -26,11 +26,11 @@
     padding-left: 60px;
 }
 
-.banner .box {
+.main-banner .main-box {
     margin-bottom: 40px;
 }
 
-.banner .navigation {
+.main-banner .navigation {
     display: flex;
     justify-content: space-around;
 }
