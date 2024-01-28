@@ -15,6 +15,7 @@ Meu portfólio é mais do que apenas uma coleção de projetos; é uma experiên
 
 - HTML5: Estruturação semântica para uma base sólida.
 - CSS3: Estilização avançada e animações para uma experiência visual envolvente.
+- JavaScript: Suave transição entre as sessões da página quando os botões do menu são acionados.
 
 ## Como Visualizar 🖥️
 
