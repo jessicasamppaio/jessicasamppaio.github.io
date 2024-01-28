@@ -3,15 +3,14 @@
     background-image: url(../../img/banner-animado-10.gif);
     background-repeat: no-repeat;
     height: 800px;
-    background-size: 100%;
-    display: flex;
+    background-size: cover; 
     position: relative;
 }
 
 .main-banner::before {
     content: "";
     position: absolute;
-    bottom: 14px;
+    bottom: 1px;
     left: 0;
     width: 100%;
     height: 10px;
@@ -21,9 +20,8 @@
 .main-banner .wrapper {
     display: flex;
     flex-direction: column;
-    width: 690px;
-    padding-top: 115px;
-    padding-left: 60px;
+    max-width: 100%; 
+    padding: 115px 20px; 
 }
 
 .main-banner .main-box {
@@ -33,4 +31,15 @@
 .main-banner .navigation {
     display: flex;
     justify-content: space-around;
+}
+
+
+@media only screen and (max-width: 768px) {
+    .main-banner {
+        height: auto; 
+    }
+
+    .main-banner::before {
+        content: none; 
+    }
 }

@@ -1,12 +1,13 @@
-.main-section{
-    background-color:#EA53AD;
+.main-section {
+    background-color: #EA53AD;
     padding-top: 50px;
     padding-bottom: 100px;
     border-bottom: 10px solid #7A33B2;
-    margin-top: -14px; 
+    margin-top: -14px;
+    box-sizing: border-box;
 }
 
-.main-section .main-title{
+.main-section .main-title {
     margin-bottom: 60px;
 }
 
@@ -14,14 +15,26 @@
     background-color: black;
 }
 
-.main-section.-bdFirst{
+.main-section.-bdFirst {
     border-color: #EA53AD;
 }
 
-.main-section.-bgSecond{
+.main-section.-bgSecond {
     background-color: #7C5E99;
 }
 
 .main-section.-bdBlack {
-border-color: black;
+    border-color: black;
 }
+
+@media only screen and (max-width: 768px) {
+    .main-section {
+        padding-top: 30px; 
+        padding-bottom: 60px; 
+        margin-top: 0; 
+    }
+}
+
+    .main-section .main-title {
+        margin-bottom: 40px; 
+    }
