@@ -1,4 +1,4 @@
-# Meu Portfólio Pixel Art 🎨
+# Meu Portfólio 🎨
 
 Bem-vindo ao meu repositório que abriga meu portfólio pessoal, onde apliquei conceitos de HTML e CSS na estética encantadora da pixel art. Este projeto reflete minha paixão por design e desenvolvimento web, combinando elementos visuais nostálgicos com as últimas tecnologias.
 
