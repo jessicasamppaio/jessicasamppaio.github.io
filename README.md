@@ -24,10 +24,10 @@ Meu portfólio é mais do que apenas uma coleção de projetos; é uma experiên
 
 As cores principais usadas neste projeto são:
 
-- ![#a32bff](https://via.placeholder.com/15/2ecc71/000000?text=+) `#a32bff` (Roxo)
-- ![#7C5E99](https://via.placeholder.com/15/3498db/000000?text=+) `#7C5E99` (Roxo Acinzentado)
-- ![#b65e93](https://via.placeholder.com/15/e74c3c/000000?text=+) `#b65e93` (Rosa Acinzentado)
-- ![#EA53AD](https://via.placeholder.com/15/e74c3c/000000?text=+) `#EA53AD` (Rosa)
+- ![#a32bff](https://via.placeholder.com/15/a32bff/000000?text=+) `#a32bff` (Roxo)
+- ![#7C5E99](https://via.placeholder.com/15/7C5E99/000000?text=+) `#7C5E99` (Roxo Acinzentado)
+- ![#b65e93](https://via.placeholder.com/15/b65e93/000000?text=+) `#b65e93` (Rosa Acinzentado)
+- ![#EA53AD](https://via.placeholder.com/15/EA53AD/000000?text=+) `#EA53AD` (Rosa)
 
 ## Feedback 📬
 
