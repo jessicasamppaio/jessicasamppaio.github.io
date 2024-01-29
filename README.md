@@ -32,6 +32,6 @@ As cores principais usadas neste projeto são:
 
 ## Feedback 📬
 
-Estou sempre aberto a feedback e sugestões! Se você tiver alguma ideia para melhorar a estética ou sugestões para novos recursos, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
+Estou sempre aberta a feedback e sugestões! Se você tiver alguma ideia para melhorar a estética ou sugestões para novos recursos, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
 
 Espero que você aproveite explorar meu portfólio tanto quanto eu aproveitei criá-lo. Obrigado por visitar! 😊
