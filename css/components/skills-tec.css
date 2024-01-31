@@ -18,13 +18,13 @@
     justify-content: space-around;
 }
 
-@media only screen and (max-width: 768px) {
+@media (max-width: 932px) {
     .skills-tec {
         font-size: 20px; /
     }
 
     .skills-tec .icon {
         width: 40px; 
-        margin-right: 10px; 
+        margin: 22px 22px 9px 20px; 
     }
 }

@@ -3,3 +3,9 @@
     justify-content: space-around;
     flex-wrap: wrap; 
 }
+
+@media (max-width: 932px) {
+    .wrapper-card{
+    margin: 5px 5px 5px 5px;
+}
+}

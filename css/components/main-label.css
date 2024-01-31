@@ -6,6 +6,20 @@
     line-height: 40px;
 }
 
+.main-title.-second-2 {
+
+        color: #ffffff;
+        text-shadow: none;
+        text-align: center;
+       
+}
+
 form{
     background-color: #515151;
+}
+
+@media (max-width: 932px) {
+    .main-title.-second-2 {
+        margin-bottom: 31px;
+    }
 }

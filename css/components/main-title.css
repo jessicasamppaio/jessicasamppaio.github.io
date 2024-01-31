@@ -10,3 +10,9 @@
  text-shadow: none;
  text-align: center;
 }
+
+@media (max-width: 932px) {
+    .main-title.-second {
+        margin-top: 14px;
+    }
+}

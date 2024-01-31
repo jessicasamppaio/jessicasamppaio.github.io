@@ -34,7 +34,7 @@
 }
 
 
-@media only screen and (max-width: 768px) {
+@media (max-width: 932px) {
     .main-banner {
         height: auto; 
     }

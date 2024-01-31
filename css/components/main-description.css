@@ -6,3 +6,9 @@
     font-family: 'Fira Code', monospace, Arial, Helvetica, sans-serif;
     padding: 30px;
 }
+
+@media (max-width: 932px) {
+    .main-description {
+        font-size: 18px;
+    }
+}
